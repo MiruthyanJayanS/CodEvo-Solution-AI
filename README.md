@@ -1,0 +1,3 @@
+This project Contains various projects in Artificial Intelligence:
+1. IMAGE CLASSIFICATION WITH LOGISTIC REGRESSION
+2. TEXT CLASSIFICATION WITH NAIVE BAYES
